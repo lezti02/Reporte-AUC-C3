@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+# Archivos que generan los scripts al correrlos dentro de Codigo_modelos/
+Codigo_modelos/*.xlsx
+Codigo_modelos/comidas_modelo.csv
+Codigo_modelos/microbiota_modelo.csv
+Codigo_modelos/pats_modelo.csv
+Codigo_modelos/e_*.csv
